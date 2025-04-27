@@ -4,10 +4,13 @@
 Subject :- Programming for Problem Solving
 
 Created BY :- 
-Name :- Bhanu Prakash Jha
-Roll Number :- 24151006
-Registration Number :- 24151144035
-Semester :- 1st 
+Name :- Bhanu Prakash Jha.
+
+Roll Number :- 24151006.
+
+Registration Number :- 24151144035.
+
+Semester :- 1st. 
 
 
 
